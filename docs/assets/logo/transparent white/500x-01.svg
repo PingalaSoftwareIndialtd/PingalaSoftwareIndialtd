@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 500 500"
+   version="1.1"
+   sodipodi:docname="500x-01.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="690"
+     inkscape:window-height="480"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="0.472"
+     inkscape:cx="250"
+     inkscape:cy="250"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#2979ff;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">500x</title>
+  <ellipse
+     class="cls-1"
+     cx="250"
+     cy="250"
+     id="circle8"
+     r="250"
+     style="fill:none"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <rect
+     class="cls-2"
+     x="107.53"
+     y="119.06"
+     width="58.95"
+     height="262.22"
+     rx="29.48"
+     ry="29.48"
+     id="rect10" />
+  <rect
+     class="cls-2"
+     x="333.51"
+     y="118.83"
+     width="58.95"
+     height="262.22"
+     rx="29.48"
+     ry="29.48"
+     id="rect12" />
+  <rect
+     class="cls-2"
+     x="164.01"
+     y="95.64"
+     width="58.95"
+     height="218.38"
+     rx="29.48"
+     ry="29.48"
+     transform="translate(-88.16 196.81) rotate(-45)"
+     id="rect14" />
+  <path
+     class="cls-2"
+     d="M383.69,127.32h0a29.54,29.54,0,0,0-41.68,0L255.38,214l20.38,20.38a37.52,37.52,0,0,1,10.53,32.07l97.4-97.4A29.54,29.54,0,0,0,383.69,127.32Z"
+     id="path16" />
+  <path
+     class="cls-2"
+     d="M226.5,290.65v67.42c0,.43,0,.86.06,1.28l21.22-15.17a3.8,3.8,0,0,1,4.49.06l20.14,15.15c0-.43,0-.87,0-1.32V291A37.68,37.68,0,0,1,226.5,290.65Z"
+     id="path18" />
+</svg>
