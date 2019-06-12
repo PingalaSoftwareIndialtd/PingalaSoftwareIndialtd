@@ -3007,6 +3007,7 @@ html {
   height: 100%;
   position: relative !important;
 }
+
 @media only screen and (min-width: 112.5em) {
   html {
     font-size: 75%;
@@ -4796,6 +4797,12 @@ body {
 .cl__img--6 {
   margin-top: 3rem;
   width: 20rem;
+}
+.cl__img--footertac {
+  width: 12.5rem;
+}
+.cl__img--footer {
+  width: 30rem;
 }
 .container * {
   -webkit-animation-delay: 0s;
