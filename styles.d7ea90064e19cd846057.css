@@ -3331,6 +3331,8 @@ body {
 }
 .footer--home__social {
   padding-left: 20rem;
+  position: absolute;
+  bottom: 0;
 }
 .footer--home__social__icon {
   text-decoration: none;
@@ -3374,6 +3376,7 @@ body {
   .footer--home__social {
     padding-left: 0;
     order: 2;
+    position: relative;
   }
   .footer--home__last {
     order: 1;
